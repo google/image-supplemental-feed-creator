@@ -1,0 +1,17 @@
+{
+    "sheet_name": "<Name of file you want to create>",
+    "users": [
+        {
+            "email": "<insert email>",
+            "role": "writer"
+        },
+        {
+            "email": "<insert email>",
+            "role": "<choose one: reader | writer>"
+        },
+       {
+            "email": "<insert email>",
+            "role": "<choose one: reader | writer>"
+        }
+    ]
+}
