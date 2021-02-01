@@ -13,7 +13,7 @@ Files included:
 ## Pre-requisites
 
 - A Google Cloud Project
-- A service account with credentials.json file downloaded
+- A service account with `credentials.json` file downloaded
 - A Google Cloud Function with `Python 3.8` runtime
 - Email ids that will need to access the generated spreadsheet
 
